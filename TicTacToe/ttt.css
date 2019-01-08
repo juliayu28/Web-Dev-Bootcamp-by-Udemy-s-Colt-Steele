@@ -1,0 +1,36 @@
+/*.one {
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.two {
+	border-bottom: 1px solid black;
+}
+
+.three {
+	border-right: 1px solid black;
+}
+*/
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+table {
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}

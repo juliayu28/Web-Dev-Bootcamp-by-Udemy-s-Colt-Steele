@@ -1,0 +1,26 @@
+.sp1 {
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	/*width: 100px;
+	height: 100px;*/
+	padding: 80px 50px;
+	/*display: inline;*/
+	margin: 0px;
+}
+
+.sp2 {
+	border-bottom: 1px solid black;
+	margin: 0;
+	padding: 80px 50px;
+}
+
+.sp3 {
+	border-right: 1px solid black;
+	margin: 0;
+	padding: 140px 50px;
+}
+
+p {
+	margin-top: 80px;
+}
+
